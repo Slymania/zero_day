@@ -1,1 +1,1 @@
-Having you in my life makes me happy.
+"This is my vagrant directory"
